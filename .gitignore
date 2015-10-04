@@ -1,0 +1,4 @@
+.env
+deploy.env
+event.json
+node_modules

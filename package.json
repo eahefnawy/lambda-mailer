@@ -1,0 +1,22 @@
+{
+  "name": "lambda-mailer",
+  "version": "0.0.1",
+  "description": "AWS Lambda for sending emails. Ready for deployment in 60 seocnds.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eahefnawy/lambda-mailer.git"
+  },
+  "author": "Eslam A. Hefnawy <eahefnawy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eahefnawy/lambda-mailer"
+  },
+  "homepage": "https://github.com/eahefnawy/lambda-mailer",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "nodemailer": "^1.5.0",
+    "email-templates": "^2.0.1",
+    "handlebars": "^3.0.0"
+  }
+}
