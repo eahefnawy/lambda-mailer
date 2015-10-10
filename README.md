@@ -48,6 +48,7 @@ AWS_MEMORY_SIZE=128
 AWS_TIMEOUT=60
 AWS_DESCRIPTION=your_lambda_description
 AWS_RUNTIME=nodejs
+CONFIG_FILE=deploy.env
 
 EMAIL_SERVICE=gmail
 EMAIL_SERVICE_USER=username@gmail.com
