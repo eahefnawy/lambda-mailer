@@ -30,7 +30,7 @@ npm install
 touch .env deploy.env event.json
 ```
 
-`.env` file is used by your local machine to test and deploy the lambda, deploy.env is used by your lambda function after deployment. So there might be some duplicate env vars.
+`.env` file is used by your local machine to test and deploy the lambda, `deploy.env` is used by your lambda function after deployment. So there might be some duplicate env vars.
 
 open `.env` and fill it with your AWS credentials: (make sure you have proper IAM permissions)
 
