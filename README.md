@@ -1,6 +1,6 @@
 # :envelope: lambda-mailer
 AWS Lambda for sending emails. Ready for deployment in 60 seocnds.
- 
+
 This lambda gives your browser (or any client) a backend for sending emails.
 
 ### Features
