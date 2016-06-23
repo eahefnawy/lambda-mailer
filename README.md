@@ -1,5 +1,5 @@
 # :envelope: lambda-mailer
-AWS Lambda for sending emails. Ready for deployment in 60 seocnds.
+AWS Lambda for sending emails. Ready for deployment in 60 seconds.
 
 This lambda gives your browser (or any client) a backend for sending emails.
 
