@@ -1,5 +1,5 @@
 # :envelope: lambda-mailer
-AWS Lambda for sending emails. Ready for deployment in 60 seocnds.
+AWS Lambda for sending emails. Ready for deployment in 60 seconds.
 
 This lambda gives your browser (or any client) a backend for sending emails.
 
@@ -183,7 +183,7 @@ Here's the full list of supported templates:
 - [walrus](https://github.com/jeremyruppel/walrus) [(website)](http://documentup.com/jeremyruppel/walrus/)
 - [whiskers](https://github.com/gsf/whiskers.js)
 
-after chosing your template engine, make sure the file extentions of the template files match the template you chose:
+after chosing your template engine, make sure the file extensions of the template files match the template you chose:
 
 ```
 html.{{ext}}
